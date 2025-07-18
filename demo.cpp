@@ -24,3 +24,14 @@ int main()
     cin>>n;
     print(n);
 }
+
+
+
+output:
+input=5
+*
+**
+***
+****
+*****
+  
